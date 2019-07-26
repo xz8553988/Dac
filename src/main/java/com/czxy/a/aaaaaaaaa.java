@@ -9,12 +9,13 @@ public class aaaaaaaaa {
         System.out.println("11111");
         System.out.println("11111");
         System.out.println("11111");
-        System.out.println("11111");
-        System.out.println("11111");
-        System.out.println("11111");
-        System.out.println("11111");
-        System.out.println("11111");
-        System.out.println("11111");
-        System.out.println("11111");
+        System.out.println("222");
+        System.out.println("222");
+        System.out.println("222");
+        System.out.println("222");
+        System.out.println("222");
+        System.out.println("222");
+        System.out.println("222");
+
     }
 }
